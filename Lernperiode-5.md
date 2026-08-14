@@ -31,9 +31,10 @@
 - [ ] Modul 322 weiterarbeiten
 - [ ] Modul 320 Klassen & Objekte
 - [ ] Schlauchsystem weiterbeiten
-
-(Heute habe ich... (50-100 Wörter))
-
+Heute habe ich am Modul 231 Einflussraum Rechtsraum fertiggestellt da es sich dabei um ein 
+relativ komplexer Auftrag handelt verlif die Zeit schneller als das ich dachte.
+Meiner Meinung nach hätte ich sicher noch etwas anderes in der Zeit geschaft wie einer der zwei Module.
+Ich werde die unerledigten Aufgaben einfach zum nächsten mal mir vornehmen um zu bearbeiten.
 
 ### Planung 23.08.2024
 3 bis 5 klar messbare Arbeitspakete.
