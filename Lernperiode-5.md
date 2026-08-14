@@ -27,7 +27,7 @@
 ### Planung 14.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Modul 231 Einflussraum Rechtsraum berabeiten
+- [X] Modul 231 Einflussraum Rechtsraum berabeiten
 - [ ] Modul 322 weiterarbeiten
 - [ ] Modul 320 Klassen & Objekte
 - [ ] Schlauchsystem weiterbeiten
