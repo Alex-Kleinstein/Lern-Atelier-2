@@ -31,6 +31,8 @@
 - [ ] Modul 322 weiterarbeiten
 - [ ] Modul 320 Klassen & Objekte
 - [ ] Schlauchsystem weiterbeiten
+
+### Reflektion 14.08.2024
 Heute habe ich am Modul 231 Einflussraum Rechtsraum fertiggestellt da es sich dabei um ein 
 relativ komplexer Auftrag handelt verlif die Zeit schneller als das ich dachte.
 Meiner Meinung nach hätte ich sicher noch etwas anderes in der Zeit geschaft wie einer der zwei Module.
