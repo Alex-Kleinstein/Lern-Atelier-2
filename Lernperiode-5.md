@@ -30,7 +30,7 @@
 - [ ] Modul 231 Einflussraum Rechtsraum berabeiten
 - [ ] Modul 322 weiterarbeiten
 - [ ] Modul 320 Klassen & Objekte
-- [X] Schlauchsystem weiterbeiten
+- [ ] Schlauchsystem weiterbeiten
 
 (Heute habe ich... (50-100 Wörter))
 
@@ -40,7 +40,7 @@
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
-- [X] Viertes AP
+- [ ] Viertes AP
 
 (Heute habe ich... (50-100 Wörter))
 
