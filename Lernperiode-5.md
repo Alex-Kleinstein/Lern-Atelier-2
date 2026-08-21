@@ -30,7 +30,7 @@
 - [X] Modul 231 Einflussraum Rechtsraum berabeiten
 - [ ] Modul 322 weiterarbeiten
 - [ ] Modul 320 Klassen & Objekte
-- [ ] Schlauchsystem weiterbeiten
+- [ ] Schlauchsystem weitarbeiten
 
 ### Reflektion 14.08.2024
 Heute habe ich am Modul 231 Einflussraum Rechtsraum fertiggestellt da es sich dabei um ein 
@@ -39,13 +39,10 @@ Meiner Meinung nach hätte ich sicher noch etwas anderes in der Zeit geschaft wi
 Ich werde die unerledigten Aufgaben einfach zum nächsten mal mir vornehmen um zu bearbeiten.
 
 ### Planung 23.08.2024
-3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Schlauchsystem weitarbeiten
 
-(Heute habe ich... (50-100 Wörter))
+##Reflektion:
 
 ## Lernperiode Reflexion
 Ich bin nocht nicht fertig !!!
