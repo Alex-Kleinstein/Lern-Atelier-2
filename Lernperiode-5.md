@@ -38,11 +38,12 @@ relativ komplexer Auftrag handelt verlif die Zeit schneller als das ich dachte.
 Meiner Meinung nach hätte ich sicher noch etwas anderes in der Zeit geschaft wie einer der zwei Module.
 Ich werde die unerledigten Aufgaben einfach zum nächsten mal mir vornehmen um zu bearbeiten.
 
-### Planung 23.08.2024
+### Planung 21.08.2024
 
 - [ ] Schlauchsystem weitarbeiten
+- [ ] Schlauchsystem ablegbar machen
 
-##Reflektion:
+## Reflektion:
 
 ## Lernperiode Reflexion
 Ich bin nocht nicht fertig !!!
