@@ -45,7 +45,7 @@ Ich werde die unerledigten Aufgaben einfach zum nächsten mal mir vornehmen um z
 ## Reflektion
 Heute habe ich an dem Feuerwehr Illeburg Schlauchsystem gearbeitet, und konnte nun den Schlauch an der Hand des Spielers tracken lassen anstatt mit der alten Methode wo man den Schlauch mithilfe eines Tools am Charakter verbunden war. Ich konnte dies aber super umsetzten und jetzt ist das System bereit um an den Hydraten angeschlossen zu werden.
 
-### Planung 21.08.2026
+### Planung 28.08.2026
 - [ ] Schlauchsystem weitarbeiten
 
 ## Lernperiode Reflexion
