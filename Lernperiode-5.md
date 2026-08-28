@@ -46,7 +46,15 @@ Ich werde die unerledigten Aufgaben einfach zum nächsten mal mir vornehmen um z
 Heute habe ich an dem Feuerwehr Illeburg Schlauchsystem gearbeitet, und konnte nun den Schlauch an der Hand des Spielers tracken lassen anstatt mit der alten Methode wo man den Schlauch mithilfe eines Tools am Charakter verbunden war. Ich konnte dies aber super umsetzten und jetzt ist das System bereit um an den Hydraten angeschlossen zu werden.
 
 ### Planung 28.08.2026
-- [ ] Schlauchsystem weitarbeiten
+- [X] Schlauchsystem Events
+- [X] Schlauchsystem Variabeln
+
+## Reflektion
+Ich habe heute sehr Produktiv an meinem Roblox Spiel gearbeitet und habe gemacht das wenn man den Schlauch aufhebt das ganze als Variabel angezeigt wird sowie habe ich das auch mit den Events gemacht.
+
+### Planung 28.08.2026
+- [ ] Schlauchsystem weiterarbeiten
+- [ ] Schlauchsystem Anhänken
 
 ## Lernperiode Reflexion
 Ich bin nocht nicht fertig !!!
