@@ -52,9 +52,16 @@ Heute habe ich an dem Feuerwehr Illeburg Schlauchsystem gearbeitet, und konnte n
 ## Reflektion
 Ich habe heute sehr Produktiv an meinem Roblox Spiel gearbeitet und habe gemacht das wenn man den Schlauch aufhebt das ganze als Variabel angezeigt wird sowie habe ich das auch mit den Events gemacht.
 
-### Planung 28.08.2026
-- [ ] Schlauchsystem weiterarbeiten
-- [ ] Schlauchsystem Anhänken
+### Planung 04.09.2026
+- [X] Schlauchsystem weiterarbeiten
+- [X] Schlauchsystem Zusammenbinden
+
+## Reflektion 
+Heute habe ich weiter am Schlauchsystem gearbeitet und den Schlauch Zusammenfaltbar gemacht wenn man nun beide enden aufhebt im nächsten schritt muss ich es dem Spieler ermöglichen das er das eine Schlachteil wieder Fallen lassen kann und dann das noch der schlauch an einem Objekt angeschlossen werden kann.
+
+### Planung 11.09.2026
+- [ ] Schlauchsystem Dropbar machen
+- [ ] Schlauchsystem anhänken
 
 ## Lernperiode Reflexion
 Ich bin nocht nicht fertig !!!
