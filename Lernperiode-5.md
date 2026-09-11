@@ -60,8 +60,15 @@ Ich habe heute sehr Produktiv an meinem Roblox Spiel gearbeitet und habe gemacht
 Heute habe ich weiter am Schlauchsystem gearbeitet und den Schlauch Zusammenfaltbar gemacht wenn man nun beide enden aufhebt im nächsten schritt muss ich es dem Spieler ermöglichen das er das eine Schlachteil wieder Fallen lassen kann und dann das noch der schlauch an einem Objekt angeschlossen werden kann.
 
 ### Planung 11.09.2026
-- [ ] Schlauchsystem Dropbar machen
-- [ ] Schlauchsystem anhänken
+- [X] Modul 320 Skeleton anschauen
+- [X] Modul 231 Bilder generieren
+
+## Reflektion 
+Heute habe ich an unterschiedlichen Dingen gearbeitet wie das Genieren der Bilder für das Modul 320 jedoch konnte ich die Bilder in nicht so einer guten Qualität generieren und suche deswegen imomment Lösungen für mein Problem wie ich die Bilder schöner Generieren kann. Bei Modul mit C# Hab ich mit Joel zusammen weiter angeschaut wie man ein Problem lösen kann.
+
+### Planung 18.09.2026
+- [ ] Schlauchsystem weiterarbeiten
+- [ ] Schlauchsystem Zusammenhängen
 
 ## Lernperiode Reflexion
 Ich bin nocht nicht fertig !!!
