@@ -67,8 +67,11 @@ Heute habe ich weiter am Schlauchsystem gearbeitet und den Schlauch Zusammenfalt
 Heute habe ich an unterschiedlichen Dingen gearbeitet wie das Genieren der Bilder für das Modul 320 jedoch konnte ich die Bilder in nicht so einer guten Qualität generieren und suche deswegen imomment Lösungen für mein Problem wie ich die Bilder schöner Generieren kann. Bei Modul mit C# Hab ich mit Joel zusammen weiter angeschaut wie man ein Problem lösen kann.
 
 ### Planung 18.09.2026
-- [ ] Schlauchsystem weiterarbeiten
-- [ ] Schlauchsystem Zusammenhängen
+- [X] Schlauchsystem weiterarbeiten
+- [X] Leistellen UI Anfangen zu arbeiten
+
+## Reflektion
+Heute habe ich an dem UI für die Leistelle des Feuerwehr-Illeburg Spiels gearbeitet und habe die einzelnen Fahrzeug Elemente gemacht das diese schön unter der Wache Kategorie eingeordnet werden konnten. Ihc hatte anfänlich einbisschen Probleme mit der Scrollbar dies konnte jedoch leicht gelöst werden. Meiner Meinung nach hab ich heute Konzentriert gearbeitet.
 
 ## Lernperiode Reflexion
-Ich bin nocht nicht fertig !!!
+Gesamt gesehen habe ich in dieser Lernperiode eine grosse Varietät von Aufgaben erledigt und konnte viel Arbeiten jedoch entpfand ich manchmal mein Arbeitsverhalten als ein wenig Unkonzentriert und ich wusste nicht ganz was ich wann machen sollte also ein wenig Unkontrolliert war ich dies möchte ich aber in Zukunft ändern.
