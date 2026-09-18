@@ -1,4 +1,4 @@
-# Lern-Periode 5
+# Lern-Periode 6
 
 - Name: Alex Kleinstein
 - Zeitraum: 16.10.2026 bis 18.12.2026
