@@ -28,9 +28,19 @@
 ### Generelle Ziele
 -Schlauchsystem weiterabreiten
 -Candelaybel Website
+- Weiter C# lernen
 
 ## Tagesplanungen
+- C# mit dem Modul 320 weiteranschauen Lernziel 1 durchmachen
+- C# mit dem Modul 320 weiteranschauen Lernziel 2 durchmachen
 
+## Reflektion
+Heute habe ich beim Modul 320 die einzelnen Powerpoints nochmal durchgeschaut und mithilfe der KI angeschaut wo ich noch fragen habe dies habe ich gemacht für die Test vorbereitung am Montag. Meiner meinung nach war meine Arbeit sehr Produktiv denn ich konnte die Ziele 1.3 komplett fertig machen.
+
+## Tagesplanungen
+- Candelaybel Website
+- Schlauchsystem weiterarbeiten
 
 ## Lernperiode Reflexion
+
 
