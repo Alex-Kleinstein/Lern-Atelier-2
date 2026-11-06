@@ -45,10 +45,11 @@ Heute habe ich beim Modul 320 die einzelnen Powerpoints nochmal durchgeschaut un
 Heute habe für das Modul 320 gelernt und habe mich mit der Objekt Orientiereten Programmierung ausseinander gesetzt. Und konnte alle Essentiellen dinge erlernen.
 
 ## Tagesplanungen
-- Candelaybel Website
-- Schlauchsystem weiterarbeiten
-
+- Gitlab 
+- Notenbeschbrechung 
+- Mit Herr. Thut sprechen über Verküzte Prüfungszeit
 
 ## Lernperiode Reflexion
+Heute habe ich mir ein wenig die Gitlab Comments angeschait was sie tun und was sie machen.
 
 
