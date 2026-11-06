@@ -38,8 +38,16 @@
 Heute habe ich beim Modul 320 die einzelnen Powerpoints nochmal durchgeschaut und mithilfe der KI angeschaut wo ich noch fragen habe dies habe ich gemacht für die Test vorbereitung am Montag. Meiner meinung nach war meine Arbeit sehr Produktiv denn ich konnte die Ziele 1.3 komplett fertig machen.
 
 ## Tagesplanungen
+- Am Modul 320 lernen
+- Mit Herr. Thut sprechen
+
+## Reflektion
+Heute habe für das Modul 320 gelernt und habe mich mit der Objekt Orientiereten Programmierung ausseinander gesetzt. Und konnte alle Essentiellen dinge erlernen.
+
+## Tagesplanungen
 - Candelaybel Website
 - Schlauchsystem weiterarbeiten
+
 
 ## Lernperiode Reflexion
 
